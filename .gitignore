@@ -1,0 +1,11 @@
+# Ignore virtual environments
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore environment variables
+.env
+
+# Ignore dependencies (if using a virtual environment)
+*.log
